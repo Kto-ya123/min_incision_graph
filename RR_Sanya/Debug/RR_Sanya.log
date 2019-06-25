@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\artur\documents\visual studio 2015\projects\rr_sanya\rr_sanya\source.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\artur\documents\visual studio 2015\projects\rr_sanya\rr_sanya\source.cpp(58): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\artur\documents\visual studio 2015\projects\rr_sanya\rr_sanya\source.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\artur\documents\visual studio 2015\projects\rr_sanya\rr_sanya\source.cpp(87): warning C4018: <: несоответствие типов со знаком и без знака
+  RR_Sanya.vcxproj -> c:\users\artur\documents\visual studio 2015\Projects\RR_Sanya\Debug\RR_Sanya.exe
+  RR_Sanya.vcxproj -> c:\users\artur\documents\visual studio 2015\Projects\RR_Sanya\Debug\RR_Sanya.pdb (Partial PDB)
